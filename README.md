@@ -1,15 +1,20 @@
 ### Weblearning - putting the WE back into into the web
 
-Welcome to weblearning GitHub. This is where we publish and collaborate on the code for the Open Umbrella (primarily).
+Welcome to weblearning on GitHub. This is where we publish and collaborate (primarily) on the code for the Open Umbrella .
 
 # How to contribute?
-Fhere are many ways. They will revela themselves as you begin your journey.
+There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is [https://weblearning.co.za/umbrella/](Open Umbrella) 
 
-## Our community are the thirdspace
-This is a community. There are educators and technologists from all
- over the world who contribute to the open umbrella :earth_africa:
-You can make this project better by contributing to it
-If you are primariliy focussed in instructinal design, you might want to comment on the Open Umbrella website at ([https://www.bellingcat.com/](https://weblearning.co.za/umbrella/)).
+## This community is in the thirdspace
+This is a community. Educators and technologists from all
+over the world are welcome to contribute to the open umbrella :earth_africa:
+However, this porject is located in South Africa. You can make this project better by contributing to it.
+You can 
+* discover the project (https://weblearning.co.za/umbrella/)
+* engage and annotate (https://hypothes.is/) the resource
+* participate in conversations about making badges (shields.io/badges). 
+* share this work with department colleagues, personal learning networks (weblearning.substack.com)
+* lead and assist with a community of Ed / Techies who are unfurling the open umbrella on GitHub (GitHub.com/web-learning)
 
 If you are neither an edtechie or ID, You can report mistakes and errors, create more content, etc. 
 
