@@ -9,7 +9,7 @@ There are many ways. They will reveal themselves as you begin your journey. But 
 This is intended as a community. Educators and technologists from all
 over the world are welcome to contribute to the open umbrella :earth_africa:
 However, this porject is located in South Africa. You can make this project better by contributing to it.
-You can 
+You can ...
 * discover the project (https://weblearning.co.za/umbrella/)
 * engage and annotate (https://hypothes.is/) the resource
 * participate in conversations about making badges (shields.io/badges). 
