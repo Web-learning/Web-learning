@@ -1,12 +1,12 @@
 ### Weblearning - putting the WE back into into the web
 
-Welcome to weblearning on GitHub. This is where (well I at the moment) attempt to publish and collaborate (primarily) on the Open Umbrella .
+Welcome to weblearning on GitHub. This is where we (well I at the moment) attempt to publish and collaborate (primarily) on the Open Umbrella. You are most welcome to jump right in.
 
-# How to contribute?
-There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is [https://weblearning.co.za/umbrella/](Open Umbrella) 
+# How could you contribute?
+There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is by visiting [https://weblearning.co.za/umbrella/](Open Umbrella) where you can discover the open umbrella 
 
 ## This community is in the thirdspace
-This is a community. Educators and technologists from all
+This is intended as a community. Educators and technologists from all
 over the world are welcome to contribute to the open umbrella :earth_africa:
 However, this porject is located in South Africa. You can make this project better by contributing to it.
 You can 
@@ -29,8 +29,6 @@ All are welcome, and there's never a stupid question.
 I believe that by collaborating we can build better, educators informed tools that contribute to the class !
 
 ## Direction :potted_plant:
-
-
  
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Web-learning)](https://github.com/Web-learning/github-contribution-stats/)
 
