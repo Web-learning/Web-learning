@@ -1,6 +1,6 @@
 ### Weblearning - putting the WE back into into the web
 
-Welcome to weblearning on GitHub. This is where we publish and collaborate (primarily) on the code for the Open Umbrella .
+Welcome to weblearning on GitHub. This is where (well I at the moment) attempt to publish and collaborate (primarily) on the Open Umbrella .
 
 # How to contribute?
 There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is [https://weblearning.co.za/umbrella/](Open Umbrella) 
