@@ -3,13 +3,9 @@
 Welcome to Weblearning on GitHub. This is where we (well its me at the moment) publish and collaborate (primarily) on the Open Umbrella. You are most welcome to jump right in.
 
 # How could you contribute?
-There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is by visiting the open umbrella 
-
-## This community is in the thirdspace
-This is intended as a community. Educators and technologists from all
-over the world are welcome to contribute to the open umbrella :earth_africa:
-However, this porject is located in South Africa. You can make this project better by contributing to it.
-You can ...
+There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is by visiting the open umbrella itself 
+Educators and technologists from all over the world are welcome to contribute to the open umbrella :earth_africa:
+You can make this project better doing the following. You might ...
 * discover the project [Open Umbrella](https://weblearning.co.za/umbrella/)
 * engage and annotate (https://hypothes.is/) the resource
 * participate in conversations about making badges (shields.io/badges). 
@@ -18,9 +14,7 @@ You can ...
 
 If you are neither an edtechie or ID, You can report mistakes and errors, create more content, etc. 
 
-
-
-### Want to contribute? :trophy:
+## Want to contribute? :trophy:
 You are most welcome to join the community work via GitHub. Whatever is your background, there is a
 way to contribute: via the GitHub website, via command-line or even without
 dealing with GitHub
