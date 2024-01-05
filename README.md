@@ -7,8 +7,7 @@ There are many ways. They will reveal themselves as you begin your journey. But 
 Educators and technologists from all over the world are welcome to contribute to the open umbrella :earth_africa:
 You can make this project better doing the following. You might ...
 * discover the project [Open Umbrella](https://weblearning.co.za/umbrella/)
-* engage and annotate (https://hypothes.is/) the resource
-* participate in conversations about making badges (shields.io/badges). 
+* engage and annotate by using [Hypothes.is](https://hypothes.is/) 
 * share this work with department colleagues, personal learning networks [Substack](https://weblearning.substack.com)
 * lead and assist with a community of Ed / Techies who are unfurling the open umbrella on GitHub (GitHub.com/web-learning)
 
