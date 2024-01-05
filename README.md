@@ -26,7 +26,7 @@ way to contribute: via the GitHub website, via command-line or even without
 dealing with GitHub
 
 All are welcome, and there's never a stupid question.   
-I believe that by collaborating we can build better, educators informed tools that contribute to the class !
+I believe that by using [KIFF pedagogy](https://weblearning.co.za/blog/kiff/) we can build better, educators informed tools that contribute to the class !
 
 ## Direction :potted_plant:
  
