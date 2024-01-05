@@ -3,7 +3,7 @@
 Welcome to Weblearning on GitHub. This is where we (well its me at the moment) publish and collaborate (primarily) on the Open Umbrella. You are most welcome to jump right in.
 
 # How could you contribute?
-There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is by visiting [https://weblearning.co.za/umbrella/](Open Umbrella) where you can discover the open umbrella 
+There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is by visiting [https://weblearning.co.za/umbrella/] (Open Umbrella) where you can discover the open umbrella 
 
 ## This community is in the thirdspace
 This is intended as a community. Educators and technologists from all
