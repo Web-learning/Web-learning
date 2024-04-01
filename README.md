@@ -1,3 +1,16 @@
+<!---
+  What goes into a readme file
+
+  1. Add your project title. Make sure it matches the above name ##
+  2. Insert Vision Statement > 
+  Below you can add a short bullet points rational for the project (2, 3 bullets max.)
+  3. Add the names of the project lead. Use your GitHub username. If there are teammates, add these details 
+  4. Offer some structure with a table 
+  5. Conclude with credits and license
+  
+  --->
+
+
 ### Weblearning - putting the WE back into into the web
 
 Welcome to Weblearning on GitHub. This is where we (well its me at the moment) publish and collaborate (primarily) on the Open Umbrella. You are most welcome to jump right in.
