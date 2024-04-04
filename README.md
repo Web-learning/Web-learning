@@ -16,7 +16,7 @@
 Welcome to Weblearning on GitHub. This is where we (well its me at the moment) document, publish and collaborate (primarily) on the Open Umbrella :open_umbrella:. But feel free to look at my other repositories.
 
 ## How could you assist? :bellhop_bell:
-There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is by visiting the open umbrella itself 
+There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is by visiting the open umbrella itself. 
 Educators and technologists from all over the world are welcome to contribute to the open umbrella :earth_africa:
 You can make this project better doing the following. You might ...
 * discover the project [Open Umbrella](https://weblearning.co.za/umbrella/)
