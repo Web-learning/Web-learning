@@ -11,7 +11,7 @@
   --->
 
 
-# Weblearning - putting the WE back into into the web
+# Weblearning
 
 Welcome to Weblearning on GitHub. This is where we (well its me at the moment) document, publish and collaborate (primarily) on the Open Umbrella :open_umbrella:. But feel free to look at my other repositories.
 
