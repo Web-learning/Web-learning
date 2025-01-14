@@ -13,7 +13,12 @@
 
 # Weblearning
 
-Welcome to Weblearning on GitHub. This is where we (well its me at the moment) document, publish and collaborate (primarily) on the Open Umbrella :open_umbrella:. But feel free to look at my other repositories.
+Welcome to [Weblearning on GitHub](https://github.com/Web-learning/). This is where we (well its me at the moment) document, publish and collaborate  on the Open Umbrella :open_umbrella:. 
+
+## Who am I?
+I’m not an [https://orcid.org/0000-0003-1895-2918](academic), [https://weblearning.co.za/blog/](influencer), [https://x.com/weblearning/](tech bro) or weather forecaster. I’m an ed techie. A teacher who likes using technology. Whether you are teaching remotely, on campus or in a hybrid space. I think you would probably agree, there ALWAYS seems to be a digital storm brewing. 
+![image](https://github.com/user-attachments/assets/5ac725ef-6029-4f46-8add-45f861056539)
+
 
 ## How could you assist? :bellhop_bell:
 There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is by visiting the open umbrella itself. 
