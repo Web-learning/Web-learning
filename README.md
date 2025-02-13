@@ -38,10 +38,10 @@ dealing with GitHub
 All are welcome, and there's never a stupid question.   
 I believe that by using [KIFF pedagogy](https://weblearning.co.za/blog/kiff/) we can build better, educators informed tools that contribute to the class !
 
-## Direction :potted_plant:
- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10518102.svg)](https://doi.org/10.5281/zenodo.10518102)
-This presentation entitled “Preparing for the next storm” asks the question whether we should be looking at “Disruption or Incremental Innovation”. In the presentation I suggest a process by which the Open Umbrella may be “unfurled”. This presentation was given as the capstone graduation event of Cohort 8 of the Open Seeds programme. It is the culmination of a 16 week mentorship journey run by openlifesci. :medal_sports:
-[https://youtu.be/1BMHyslHmYY?t=2671]
+## Talks and presentations :potted_plant:
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10518102.svg)](https://doi.org/10.5281/zenodo.10518102) :medal_sports:
+This is a presentation that I gave at the end of my Open Seeds mentorship. It is entitled “Preparing for the next storm” and I ask the question whether we should be looking at “Disruption or Incremental Innovation”. In the presentation I suggest a process by which the Open Umbrella may be “unfurled”. This presentation was given as the capstone graduation event of Cohort 8 of the Open Seeds programme. It is the culmination of a 16 week mentorship journey run by openlifesci. 
+* [https://youtu.be/1BMHyslHmYY?t=2671] :Closed Umbrella:
 This is a Lighting talk that I gave for Creative Commones. The title for the short talk is  "Unfurling the Open Umbrella". You can see this as a YouTube Video.  
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Web-learning)](https://github.com/Web-learning/github-contribution-stats/)
 
