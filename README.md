@@ -22,13 +22,16 @@ I’m not an [academic](https://orcid.org/0000-0003-1895-2918), [influencer](htt
 ## My favourite projects
 Educators and technologists from all over the world are welcome to contribute to these projects :earth_africa:
 ### The Open Umbrella
-You can make this project better doing the following. You might ...
+You can improve your online course. You can make this project better doing the following. You might ...
 * discover the project [Open Umbrella](https://weblearning.co.za/umbrella/)
 * engage and annotate by using [Hypothes.is](https://hypothes.is/) 
 * share this work with department colleagues, personal learning networks [Substack](https://weblearning.substack.com)
 * lead and assist with a community of Ed / Techies who are unfurling the open umbrella on GitHub ([GitHub.com/web-learning](https://github.com/Web-learning/Open-Umbrella))
 
 ### mliteracy
+You can become mobile literate and learn about computational thinking with your mobile phone. 
+You might ...
+* discover the 
 
 ## How could you assist? :bellhop_bell:
 There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is by visiting the sites themselves. 
