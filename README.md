@@ -19,7 +19,7 @@ Welcome to [Weblearning on GitHub](https://github.com/Web-learning/)
 ## Who am I? 🤳
 I’m not an [academic](https://orcid.org/0000-0003-1895-2918), [influencer](https://weblearning.co.za/blog/), [tech bro](https://x.com/weblearning/) or weather forecaster. I’m an ed techie. A teacher who likes using technology. Whether you are teaching remotely, on campus or in a hybrid space. I think you would probably agree, there ALWAYS seems to be a digital storm brewing. 
 
-## My favourite projects
+## My favourite projects 💡
 Educators and technologists from all over the world are welcome to contribute to these projects :earth_africa:
 ### The Open Umbrella
 You can improve your online course. You can make this project better doing the following. You might ...
