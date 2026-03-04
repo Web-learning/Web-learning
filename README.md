@@ -30,13 +30,14 @@ You can improve your online course. You can make this project better doing the f
 
 ### mliteracy
 You can become mobile literate and learn about computational thinking with your mobile phone. 
-You might ...
-* discover the 
+You might ... 
+* discover [mLiteracy](https://mliteracy.mobi/)
+* sign upp for a [workshop](https://mliteracy.mobi/workshop_1/index.html) 
 
 ## How could you assist? :bellhop_bell:
 There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is by visiting the sites themselves. 
 
-If you are neither an edtechie or ID, You can report mistakes and errors, create more content, etc. 
+If you are neither an edtechie or ID, You can report mistakes and errors, create more resources, improve the design, make suggestions etc. 
 
 ## Want to contribute? :toolbox: 
 You are most welcome to join the community work via GitHub. Whatever is your background, there is a
@@ -47,6 +48,7 @@ All are welcome, and there's never a stupid question.
 I believe that by using [KIFF pedagogy](https://weblearning.co.za/blog/kiff/) we can build better, educators informed tools that contribute to the class !
 
 ## Talks and presentations :potted_plant:
+### Open Umbrella
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10518102.svg)](https://doi.org/10.5281/zenodo.10518102) :medal_sports:
 This is a presentation that I gave at the end of my Open Seeds mentorship. It is entitled “Preparing for the next storm” and I ask the question whether we should be looking at “Disruption or Incremental Innovation”. In the presentation I suggest a process by which the Open Umbrella may be “unfurled”. This presentation was given as the capstone graduation event of Cohort 8 of the Open Seeds programme. It is the culmination of a 16 week mentorship journey run by openlifesci. 
 * [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/1BMHyslHmYY?t=2671) :closed_umbrella:
