@@ -17,10 +17,10 @@ My name is Derek Moore. This is where I document, publish and collaborate on pro
 Welcome to [Weblearning on GitHub](https://github.com/Web-learning/)
 
 ## Who am I? 🤳
-I’m not an [academic](https://orcid.org/0000-0003-1895-2918), [influencer](https://weblearning.co.za/blog/), [tech bro](https://x.com/weblearning/) or weather forecaster. I’m an ed techie. A teacher who likes using technology. Whether you are teaching remotely, on campus or in a hybrid space. I think you would probably agree, there ALWAYS seems to be a digital storm brewing. 
+I'm not an [academic](https://orcid.org/0000-0003-1895-2918), [influencer](https://weblearning.co.za/blog/), [tech bro](https://x.com/weblearning/) or weather forecaster. I’m an ed techie, a teacher, who enjoys using technology to balance the scales. Whether you are teaching remotely, on campus or in a hybrid space. I think you would probably agree, there ALWAYS seems to be a digital storm brewing. 
 
 ## My favourite projects 💡
-Educators and technologists from all over the world are welcome to contribute to these projects :earth_africa:
+I have learned so much from others. Educators and technologists from all over the world are welcome to contribute to these projects :earth_africa:
 ### The Open Umbrella
 You can improve your online course. You can make this project better doing the following. You might ...
 * discover the project [Open Umbrella](https://weblearning.co.za/umbrella/)
@@ -28,11 +28,17 @@ You can improve your online course. You can make this project better doing the f
 * share this work with department colleagues, personal learning networks [Substack](https://weblearning.substack.com)
 * lead and assist with a community of Ed / Techies who are unfurling the open umbrella on GitHub ([GitHub.com/web-learning](https://github.com/Web-learning/Open-Umbrella))
 
-### mliteracy
+### mLiteracy
 You can become mobile literate and learn about computational thinking with your mobile phone. 
 You might ... 
 * discover [mLiteracy](https://mliteracy.mobi/)
-* sign upp for a [workshop](https://mliteracy.mobi/workshop_1/index.html) 
+* sign up for a [workshop](https://mliteracy.mobi/workshop_1/index.html) 
+
+### Wikipedia (especially vernacular)
+You can learn how to code, write mark up and communicate in your mother tongue. You might...
+* create your sandbox
+* learn how to [make a map](https://en.wikipedia.org/wiki/User:Derek_J_Moore/Maps/)
+* show others [your history](https://en.wikipedia.org/wiki/User:Derek_J_Moore/Maps/Timeline) 
 
 ## How could you assist? :bellhop_bell:
 There are many ways. They will reveal themselves as you begin your journey. But the best pace to start is by visiting the sites themselves. 
