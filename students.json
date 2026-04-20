@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Errol Braithwaite",
+    "role": "Civil Engineer",
+    "year": "2000",
+    "lat": -26.17,
+    "lon": 28.11,
+    "bio": "Infrastructure expert"
+  },
+  {
+    "name": "Trevor Crouch",
+    "role": "Manager",
+    "year": "1999",
+    "lat": -29.77,
+    "lon": 30.76,
+    "bio": "Leadership specialist"
+  }
+]
